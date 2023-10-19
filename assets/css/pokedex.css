@@ -127,6 +127,18 @@
     height: 70px;
 }
 
+.page {
+    background-color:#c3c6db;
+    
+}
+
+.page button {
+    background-color: rgb(93, 67, 185);
+    color: aquamarine;
+    border: none;
+
+}
+
 .pagination {
     display: flex;
     flex-direction: row;
